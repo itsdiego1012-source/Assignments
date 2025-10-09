@@ -1,2 +1,2 @@
-# Assignments
-Python Assignments 
+# Laboratory Activities
+Python Activities of Digital Image Processing
