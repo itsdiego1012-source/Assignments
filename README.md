@@ -1,2 +1,2 @@
 # Assignments
-Artificial Intelligence Assignments
+Python Assignments 
